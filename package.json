@@ -1,0 +1,19 @@
+{
+  "name": "covid-invaders",
+  "version": "1.0.0",
+  "description": "Covid invaders",
+  "main": "app.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WoodburyShortridge/covid-invaders.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WoodburyShortridge/covid-invaders/issues"
+  },
+  "homepage": "https://github.com/WoodburyShortridge/covid-invaders#readme"
+}
